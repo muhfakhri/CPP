@@ -43,7 +43,7 @@ int main() {
     }
 
     cout << "=============\n";
-    cout << "Jumlah Jam : " << jam << endl;
+    cout << "Jumlah Jam : " << jam << "jam" << endl;
     cout << "Total biaya : Rp" << total_biaya << endl;
 
     return 0;
