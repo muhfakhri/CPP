@@ -26,7 +26,7 @@ int main() {
       total_pendapatan = total_harga * 0.2;
 
    if (total_tiket >= 5) {
-        if (total_harga >= 2000000) {
+        if (total_pendapatan >= 2000000) {
             target = "Tercapai";
         } else {
             target = "Belum Tercapai";
